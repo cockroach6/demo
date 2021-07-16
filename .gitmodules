@@ -1,0 +1,6 @@
+[submodule "submod1"]
+	path = submod1
+	url = https://github.com/cockroach6/submod1
+[submodule "submod2"]
+	path = submod2
+	url = https://github.com/cockroach6/submod2

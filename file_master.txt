@@ -1,0 +1,8 @@
+drwxr-xr-x 6 kali kali 4096 Aug  8 10:55 ..
+-rw-r--r-- 1 kali kali   32 Aug  7 16:00 .git
+-rw-r--r-- 1 kali kali    0 Aug  8 10:49 .git_stderr.txt
+-rw-r--r-- 1 kali kali    0 Aug  8 10:49 .git_stdout.txt
+-rw-r--r-- 1 kali kali    0 Aug  7 16:00 init_2c0dc2a
+-rw-r--r-- 1 kali kali    0 Aug  7 16:00 subm_file1
+-rw-r--r-- 1 kali kali    0 Aug  7 16:00 subm_file2
+-rw-r--r-- 1 kali kali    7 Aug  7 16:22 XV2-file1
